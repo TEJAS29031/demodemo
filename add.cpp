@@ -8,3 +8,4 @@ c=a+b
 cout<<c;
 getch();
 }
+tejas pull
